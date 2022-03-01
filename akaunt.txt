@@ -1,0 +1,12 @@
+{
+    "account_info": {
+        "balance": {
+            "USDT": 2596.180784699999,
+            "BTC": 10.0014692,
+            "ETH": 2.2,
+            "LTC": 3.0
+        },
+        "starting_balance": 1000
+    },
+    "old_orders": []
+}
